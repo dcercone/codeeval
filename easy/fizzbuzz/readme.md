@@ -33,3 +33,12 @@ Print out the series 1 through N replacing numbers divisible by X with “F”, 
 * "X" is in range [1, 20]
 * "Y" is in range [1, 20]
 * "N" is in range [21, 100]
+
+
+## RESULTS
+
+| Submitted challenges | Date | Status | Ranking Points | Code uniqueness |
+|----------------------|------|--------|----------------|-----------------|
+| Fizz Buzz | Sep 26, 2016 | Solved | 28.283 | 100% |
+
+

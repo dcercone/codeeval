@@ -26,3 +26,9 @@ For example:
 |:--------:|------|
 | 1 | World Hello |
 | 2 | CodeEval Hello |
+
+## RESULTS
+
+| Submitted challenges | Date | Status | Ranking Points | Code uniqueness |
+|----------------------|------|--------|----------------|-----------------|
+| Reverse words | Sep 27, 2016 | Solved | 28.266 | 100% |

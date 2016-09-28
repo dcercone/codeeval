@@ -28,3 +28,9 @@ For example:
 | 1 | 1 |
 | 2 | 1 |
 | 3 | 0 |
+
+## RESULTS
+
+| Submitted challenges | Date | Status | Ranking Points | Code uniqueness |
+|----------------------|------|--------|----------------|-----------------|
+| Trailing String | Sep 28, 2016 | Solved | 63.045 | 100% |
