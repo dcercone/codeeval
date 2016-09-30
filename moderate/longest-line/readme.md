@@ -34,3 +34,4 @@ For example:
 
 | Submitted challenges | Date | Status | Ranking Points | Code uniqueness |
 |----------------------|------|--------|----------------|-----------------|
+| Longest Lines | Sep 30, 2016 | Solved | 52.477 | 100 |
