@@ -1,19 +1,21 @@
 /*Sample code to read in test cases: */
 
-function swap(i,f,s){
-	var _t = i[f];
-	i[f] = i[s];
-	i[s] = _t;	
+function swap(i,l,r){
+	var _t = i[l];
+	i[l] = i[r];
+	i[r] = _t;	
+
+	var temp = w[l];
+	w[l] = w[r];
+	w[r] = temp;
 }
-function partition(i,lt,rt){
-	var p = i[Math.floor((lt+rt)/2)];
-	var l = lt;
-	var r = rt;
+function partition(i,l,r){
+	var p = i[Math.floor((l+r)/2)];
 	while(l <= r){
-		while(i[l] < p){
+		while(i[l] > p){
 			l++;
 		}
-		while(i[r] > p){
+		while(i[r] < p){
 			r--;
 		}
 		if(l <= r){
